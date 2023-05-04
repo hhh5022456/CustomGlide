@@ -3,4 +3,5 @@
 
 引入方法
 
-implementation 'com.github.hhh5022456:CustomGlide:1.0.0'
+[![](https://jitpack.io/v/hhh5022456/CustomGlide.svg)]（https://jitpack.io/#hhh5022456/CustomGlide）
+
