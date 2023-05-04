@@ -1,7 +1,11 @@
+
 plugins {
     id 'com.android.library'
 }
+apply plugin: 'com.android.library'
 
+group = 'com.github.hhh5022456'
+version = '1.0.0'
 android {
     namespace 'com.example.glidelibrary'
     compileSdk 33
